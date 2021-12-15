@@ -1,2 +1,7 @@
-def my_function( some_argument , optional_argument =4):
-  return(10)
+"""
+This is a pretty script which is not really useful.
+"""
+
+def my_function():
+    """Returns 10"""
+    return 10
